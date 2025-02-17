@@ -1,11 +1,11 @@
-🚀 Desenvolvedor desde 2009 | Criador de soluções inovadoras
+- 🚀 Desenvolvedor desde 2009 | Criador de soluções inovadoras
 
-💡 Apaixonado por tecnologia e automação, sempre buscando criar algo novo e eficiente.
-🔧 Experiência em Laravel, Node.js, Next.js, Firebase, WebSockets e muito mais.
-📈 Especialista em sistemas inteligentes, trading bots e integrações avançadas.
-🛠️ Criador do Deriv AI Strategist e outras ferramentas para otimizar operações.
+- 💡 Apaixonado por tecnologia e automação, sempre buscando criar algo novo e eficiente.
+- 🔧 Experiência em Laravel, Node.js, Next.js, Firebase, WebSockets e muito mais.
+- 📈 Especialista em sistemas inteligentes, trading bots e integrações avançadas.
+- 🛠️ Criador do Deriv AI Strategist e outras ferramentas para otimizar operações.
 
-📬 Vamos conversar? Me chama para trocar ideias! [ robinhsantos@hotmail.com ] [ (73)98179-2728 ]...🚀 
+- 📬 Vamos conversar? Me chama para trocar ideias! [ robinhsantos@hotmail.com ] [ (73)98179-2728 ]...🚀 
 
 -------------------------------------------------------------------------------------------------------
 
