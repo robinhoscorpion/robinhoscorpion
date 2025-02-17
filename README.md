@@ -9,14 +9,14 @@
 
 -------------------------------------------------------------------------------------------------------
 
-🚀 Developer since 2009 | Creator of innovative solutions
+- 🚀 Developer since 2009 | Creator of innovative solutions
 
-💡 Passionate about technology and automation, always looking to create something new and efficient.
-🔧 Experience with Laravel, Node.js, Next.js, Firebase, WebSockets, and more.
-📈 Specialist in intelligent systems, trading bots, and advanced integrations.
-🛠️ Creator of Deriv AI Strategist and other tools to optimize operations.
+- 💡 Passionate about technology and automation, always looking to create something new and efficient.
+- 🔧 Experience with Laravel, Node.js, Next.js, Firebase, WebSockets, and more.
+- 📈 Specialist in intelligent systems, trading bots, and advanced integrations.
+- 🛠️ Creator of Deriv AI Strategist and other tools to optimize operations.
 
-📬 Let's talk! Reach out to exchange ideas! [robinhsantos@hotmail.com] [(73) 98179-2728]... 🚀
+- 📬 Let's talk! Reach out to exchange ideas! [robinhsantos@hotmail.com] [(73) 98179-2728]... 🚀
 
 
 
